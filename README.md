@@ -42,6 +42,13 @@ Images used for training: 1377
 
 ## Approach
 
+
+https://github.com/gjyotk/Driver-Drowsiness/assets/112189682/a5b25320-8b19-48c2-b0c8-318ddff48cc3
+
+
+
+
+
 ![Model Approach](https://github.com/gjyotk/Driver-Drowsiness/assets/112189682/e62bf516-efa6-48b3-8959-8408d475ca0a)
 
 
